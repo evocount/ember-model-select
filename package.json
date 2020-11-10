@@ -1,5 +1,5 @@
 {
-  "name": "@evocount/ember-model-select",
+  "name": "ember-model-select",
   "version": "0.2.2",
   "description": "An ember-cli addon to provide a searchable model select box with infinite scroll support.",
   "keywords": [
